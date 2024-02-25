@@ -1,0 +1,40 @@
+* {
+    font-family:Helvetica, arial, sans-serif;
+}
+
+body {
+    background-color:rgb(247, 247, 248);  
+    margin:0;
+}
+
+a {
+    color:hsl(0, 0%, 0%)
+}
+
+.recipe {
+    text-align: center;
+}
+
+.recipeTitle {
+    background-color: hsl(166, 43%, 83%);
+    font-size: 60px;
+    margin: 0;
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+.recipeImage li,
+.recipeList li {
+    display: inline-flex;
+    list-style: none;
+    width: 20rem;
+    font-size: 30px;
+    justify-content: space-evenly;
+   
+}
+
+.recipeImage img {
+    width: 13rem;
+    height: 12rem;
+}
+

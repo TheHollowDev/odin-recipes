@@ -1,0 +1,23 @@
+* {
+    font-family:Helvetica, arial, sans-serif;
+}
+
+body {
+    background-color:rgb(247, 247, 248);  
+    margin:0;
+}
+
+.recipeTitle {
+    text-align: center;
+    background-color: hsl(166, 43%, 83%);
+    margin:0px;
+}
+
+.headerImage {
+    width: 100%;
+    height: 768px;
+}
+
+.wrapper {
+    margin:2rem;
+}
